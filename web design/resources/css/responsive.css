@@ -1,0 +1,184 @@
+@media only screen and (max-width: 1145px){
+    .hero-text-box{
+        width: 100%;  
+    }
+}
+@media only screen and (max-width: 1024px){
+    .row{
+        margin:0 15px;
+    }
+    .main-nav{
+        display:none;
+    }
+    .mobile-menu span{
+        display: block;
+    }
+    html{
+        font-size: 57%;
+    }
+    section{
+        padding: 4rem;
+    }
+    .logo{
+        margin-left: 2rem;
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 100%;
+        float:none;
+        text-align: center;
+    }
+    .contact-section form{
+        width:100%;
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width: 980px){
+    .span_1_of_4{
+        width: 49.2%;
+    }
+    
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    html{
+        font-size: 62.5%;
+    }
+    .portfolio-image{
+        height: 100%
+    }
+    .client-review{
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width: 768px){
+    .little-discription{
+        width: 100%;
+        margin-left: 0;
+    }
+    h1{
+        font-size:3.8rem;
+        margin: 0  .5rem;
+    }
+    h2{
+        font-size:3.5rem !important;
+    }
+    h3{
+        font-size:2rem; 
+    }
+    .client-review{
+        margin-left: 0;
+    }
+}
+
+
+@media only screen and (max-width: 550px){
+    .row{
+        margin: 0 10px;
+    }
+    .span_1_of_4{
+        width: 100%;
+    }
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    .col-fix{
+        margin-left: 0;
+    }
+    section{
+        padding: 3rem;
+    }
+}
+@media only screen and (max-width: 480px){
+    h2{
+        font-size:3rem !important;
+    }
+    .portfolio-filter button{
+        padding: 1rem 2rem;
+    }
+    .load-more:link,
+    .load-more:visited{
+        padding: 1.5rem 4rem;
+    }
+}
+@media only screen and (max-width: 450px){
+    section{
+        padding: 2rem;
+    }
+    h1{
+        font-size: 3.4rem;
+    }
+    .portfolio-filter button{
+        font-size: 1.6rem;
+        padding: 1rem 1.8rem;
+        margin: 0 .2rem;
+    }
+    .btn-hero:link,
+    .btn-hero:visited{
+        padding: 1.4rem 4rem; 
+    }
+    .contact-section .btn-submit{
+        padding: 1.4rem 4rem;
+    }
+    
+}
+@media only screen and (max-width: 375px){
+    section{
+        padding: 2rem 1.5rem;
+    }
+}
+@media only screen and (max-width: 354px){
+    h1{
+        font-size:3.1rem;
+    }
+    h2{
+        font-size:2.8rem;
+    }
+    h3{
+        font-size:1.8rem
+    }
+    section{
+        padding: 2rem 1rem;
+    }
+    .little-discription{
+        font-size: 1.6rem;
+    }
+    .portfolio-filter button{
+        padding: .8rem 1.2rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
